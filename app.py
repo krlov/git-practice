@@ -1,3 +1,3 @@
 print("Hello from Git Practice")
 print("Second version")
-print("Changed in master branch")
+print("Merged version")
